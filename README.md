@@ -1,2 +1,2 @@
-# MLEF-LANL-Kevin-Hiss
+# MLEF-LANL
 GOR in tight unconventional reservoirs
